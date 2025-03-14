@@ -1,0 +1,6 @@
+langchain
+langchain_community
+langchain_groq
+streamlit==1.43.2
+dotenv
+protobuf==4.25.3
